@@ -20,6 +20,6 @@
         <sys_update_name>ua_table_licensing_config_e53cb32c4fa01200888e4fa18110c7a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2015-12-22 17:50:40</sys_updated_on>
-        <table display_value="TestWFTable" name="x_snc_workflowtest_testwftable">202cffe84fa01200888e4fa18110c7c8</table>
+        <table display_value="TestWFTableUpdated" name="x_snc_workflowtest_testwftable">202cffe84fa01200888e4fa18110c7c8</table>
     </ua_table_licensing_config>
 </record_update>
